@@ -1,2 +1,2 @@
-2.43.08
-https://cdn.discordapp.com/attachments/1125752520229273630/1207331420335378432/YOKA-MultiLoader.exe?ex=65df4201&is=65cccd01&hm=29530a0dd76e8005c4a737a1b016d9c4f79f8e28ff70c421fdbb080b9a923887&
+2.43.09
+https://cdn.discordapp.com/attachments/1125752520229273630/1210028582324408370/YOKA_MultiLoader.exe?ex=65e911ef&is=65d69cef&hm=32aabafc3a4093403f57ba865a4b0fbca679c048b43871804b79bdcae3c3f2ba&
