@@ -2,7 +2,8 @@ MW3 UA + WOOFER,online
 MW3 UA + WOOFER V2,online
 MW3 CHAIR + WOOFER,online
 MW3 CHAIR + WOOFER V2,online
-MW3 AIO (spoofer needed),online
+MW3 AIO,online
+MW3 AIO v2,online
 SPOOFER BLOCKER,online
 SPOOFER BLOCKER v2,online
 VPN,online
